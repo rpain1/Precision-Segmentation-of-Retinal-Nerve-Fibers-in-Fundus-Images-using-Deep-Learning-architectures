@@ -8,13 +8,24 @@ The final project for DSCI-6011-02 DEEP LEARNING explores the efficacy of differ
 
 Features
 Data Preprocessing: Normalization and binarization of image datasets (DRIVE and HRF) to enhance model input quality.
+
 Model Architectures: Implementation of EfficientNet and MobileNet for base feature extraction with adaptations for segmentation tasks, and a hybrid U-Net model that incorporates attention mechanisms for enhanced segmentation precision.
+
 Metrics for Evaluation: Models are evaluated based on accuracy, binary cross-entropy loss, and model robustness through adaptive checkpointing.
+
 Results Visualization: Loss and accuracy graphs across training epochs, with comparative analysis of model performance.
+
 Datasets Links
 Drive Dataset: DRIVE Digital Retinal Images for Vessel Extraction
 High-Resolution Fundus (HRF) Image Database: HRF Database
+
 Usage
 Detailed steps for setting up the environment, data preprocessing, model training, and evaluation are provided. This includes scripts for training models and scripts for evaluating segmentation performance using quantitative metrics.
+
+Authors
+Revanth Paineni - rpain1@unh.newhaven.edu
+Sridhar Yemundla - syemu1@unh.newhaven.edu
+
+
 
 
