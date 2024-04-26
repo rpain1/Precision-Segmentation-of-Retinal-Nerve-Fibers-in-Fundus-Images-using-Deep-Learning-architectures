@@ -1,0 +1,2 @@
+# Precision-Segmentation-of-Retinal-Nerve-Fibers-in-Fundus-Images-using-Deep-Learning-architectures
+This repository contains the implementation and evaluation of three state-of-the-art deep learning architectures for the task of segmenting retinal nerve fibers in fundus images. Our project focuses on the utilization of a hybrid U-Net with attention mechanisms, EfficientNet, and MobileNet to improve precision in medical image segmentation.
